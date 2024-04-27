@@ -14,7 +14,7 @@ Before running the notebook, make sure you have the following installed:
 ## Installation
 
 1. Clone the repository or download the source code.
-2. Install the required Python packages by running the following command: `pip install selenium jupyter`
+2. Install the required Python packages by running the following command: `pip install -r requirements.txt`
 
 3. Download the compatible ChromeDriver for your operating system from the official website: [ChromeDriver Downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads).
 4. Extract the ChromeDriver executable and place it in the project directory or another directory included in your system's PATH.
